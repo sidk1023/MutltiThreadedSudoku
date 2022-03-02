@@ -1,6 +1,8 @@
 # MutltiThreadedSudoku
 A multithreaded sudoku solver in C.
 
+This code is a part of an Operating Systems assignment on parallel programming in linux at BITS Pilani Hyd Campus
+
 Uses pthread to solve an NxN sudoku (N = {9,16,25,36})
 
 Input: .txt file with unsolved Sudoku
