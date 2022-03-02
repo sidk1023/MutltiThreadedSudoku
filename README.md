@@ -9,6 +9,6 @@ Output: Solved sudoku printed in terminal
 
 Usage: 
 1. Compile: gcc -o solve sudoku.c -lpthread -lm
-2. Run: ./solve <N> <filepath to NxN sudoku .txt file>
+2. Run: ./solve N <filepath to NxN sudoku .txt file>
   
 Example txt file is provided
